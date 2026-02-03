@@ -1,0 +1,6 @@
+{
+  "appId": "com.saminafashion.app",
+  "appName": "Samina Fashion",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
